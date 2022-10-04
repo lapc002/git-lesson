@@ -1,3 +1,5 @@
-#my-super-block {
+.my-super-block {
   width: 500px;
+  background-color: red;
+  border: 1px solid lightblue;
 }
